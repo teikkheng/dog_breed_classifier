@@ -1,0 +1,23 @@
+title: Dog Breed Images Classifier
+description: Classify dog breed images using deep learning
+about:
+
+
+  This is a Dog Breed Images Classifier using Deep Learning built on top of Pytorch.
+
+
+  The project was build by Yew Teik Kheng
+
+code: https://github.com/teikkheng/dog_breed_classifier
+
+sampleImages:
+  - name: Pomeranian
+    url: https://i2.wp.com/res.cloudinary.com/kohepets/image/upload/v1527326485/Pomeranian_a8hmep.jpg?resize=697%2C465&ssl=1
+  - name: Golden Retriever
+    url: https://i2.wp.com/res.cloudinary.com/kohepets/image/upload/h_411,w_730/v1527326609/1_nonrv2.jpg?resize=697%2C392&ssl=1
+  - name: Maltese
+    url: https://i0.wp.com/res.cloudinary.com/kohepets/image/upload/v1527326483/maltese01_j3esxa.jpg?resize=640%2C960&ssl=1
+  - name: eggplant (not in training data)
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Solanum_melongena_24_08_2012_%281%29.JPG/1280px-Solanum_melongena_24_08_2012_%281%29.JPG
+  - name: table (not in training & not a food)
+    url: https://image.shutterstock.com/image-photo/brown-light-wooden-round-dining-260nw-588358070.jpg 
